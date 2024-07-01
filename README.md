@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=fireWinters&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=467)](https://git.io/streak-stats)
-![love code]([https://example.com/animation.gif](https://giphy.com/gifs/LINEFRIENDS-brown-line-friends-minini-c76IJLufpNwSULPk77))
+![love code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5MXMzMDhuZzJpZ3Uwc3NhYXU3ZHRzY2dtOHo5eWRyYnM4eTVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.webp)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&theme=react)
