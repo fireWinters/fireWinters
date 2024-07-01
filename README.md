@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&theme=react&card_width=360&card_height=222)
 ![love code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5MXMzMDhuZzJpZ3Uwc3NhYXU3ZHRzY2dtOHo5eWRyYnM4eTVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.webp)
 -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fireWinters&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=360&card_height=116" alt="GitHub Streak" /></a>
-<a><img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5MXMzMDhuZzJpZ3Uwc3NhYXU3ZHRzY2dtOHo5eWRyYnM4eTVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.webp" width="240" height="260" /></a>
-<p><a  href="https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&count_private=true&hide=issues,contribs&theme=react"><img src="https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="github-readme-stats" width="360" style="with:360px;height:170px"/></a></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fireWinters&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=460&card_height=195" alt="GitHub Streak" /></a>
+<a><img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5MXMzMDhuZzJpZ3Uwc3NhYXU3ZHRzY2dtOHo5eWRyYnM4eTVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.webp" width="180" height="195" /></a>
+<p><a  href="https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&count_private=true&hide=issues,contribs&theme=react"><img src="https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="github-readme-stats" /></a></p>
 
 
 
