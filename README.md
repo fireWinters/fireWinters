@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&theme=react)
+<img align="right" alt="GIF" src="https://example.com/animation.gif" width="390" height="390" />
 
 ![love code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5MXMzMDhuZzJpZ3Uwc3NhYXU3ZHRzY2dtOHo5eWRyYnM4eTVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.webp)
 
