@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=fireWinters&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  <a href=" ">
-< img width="350px" src="https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="Aeolus's GitHub streak"/>
-</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireWinters)](https://github.com/anuraghazra/github-readme-stats)
 
 
