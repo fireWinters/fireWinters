@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&theme=react&card_width=360&card_height=222)
 ![love code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5MXMzMDhuZzJpZ3Uwc3NhYXU3ZHRzY2dtOHo5eWRyYnM4eTVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.webp)
 -->
-<div style="text-align: center;"><img align="center" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fireWinters&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=460&card_height=195" alt="GitHub Streak" /></div>
+<div style="text-align: center;"><img src="https://streak-stats.demolab.com?user=fireWinters&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=467&card_height=195" alt="GitHub Streak" /></div>
 
 <div style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="github-readme-stats" /></div>
 
