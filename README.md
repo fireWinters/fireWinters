@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![love code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5MXMzMDhuZzJpZ3Uwc3NhYXU3ZHRzY2dtOHo5eWRyYnM4eTVyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.webp)
 -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fireWinters&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=467" alt="GitHub Streak" /></a>
-<img align="right" alt="GIF" src="https://example.com/animation.gif" width="390" height="390" />
+<a><img align="right" alt="GIF" src="https://example.com/animation.gif" width="390" height="390" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireWinters&show_icons=true&theme=react&card_width=360)
 
